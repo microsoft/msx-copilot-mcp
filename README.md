@@ -303,6 +303,10 @@ npm test            # single run
 npm run test:watch  # watch mode
 ```
 
+## See Also
+
+Check out [microsoft/mcaps-copilot-tools](https://github.com/microsoft/mcaps-copilot-tools) for a demo of this MCP server being used in practice.
+
 ## License
 
 MIT
